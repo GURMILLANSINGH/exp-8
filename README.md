@@ -149,8 +149,14 @@ Example JSON Response
 ---
 
 ## 📬 Postman Testing
-
+# Post
 <img width="721" height="232" src="https://github.com/user-attachments/assets/3a7feeac-120e-467d-a2ad-5333f17dc7d6" />
+# Get
+<img width="1818" height="933" alt="Screenshot 2026-03-23 161047" src="https://github.com/user-attachments/assets/b6edf584-d8a3-4860-a005-8a8725df1fe8" />
+# Put
+<img width="1683" height="972" alt="Screenshot 2026-03-23 161128" src="https://github.com/user-attachments/assets/625a9a26-5bad-4819-8990-0e6590865f0d" />
+# Delete
+<img width="1820" height="760" alt="Screenshot 2026-03-23 161145" src="https://github.com/user-attachments/assets/6b9888d8-6df5-475b-87fc-ed8e736bd96b" />
 
 ---
 
@@ -166,15 +172,4 @@ Example JSON Response
 
 ---
 
-## 🔧 Git Repository Push
 
-<img width="505" height="351" src="https://github.com/user-attachments/assets/ea3316d3-86d2-4d74-bd2d-7a32dfd28682" />
-
----
-
-## 👩‍💻 Author
-
-**Shivali**
-
-GitHub Profile:
-https://github.com/Shivi714
